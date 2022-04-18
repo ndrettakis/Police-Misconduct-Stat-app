@@ -1,0 +1,309 @@
+,unique_mos_id,first_name,last_name,command_now,shield_no,command_at_incident,rank_abbrev_incident,rank_abbrev_now,rank_now,rank_incident,mos_ethnicity,mos_gender,number_complaint,officer_age
+0,5238,Darryl,Schwartz,046 PCT,7151,046 PCT,DTS,DTS,Detective,Detective,White,M,3,41
+3,5915,Joseph,Marquez,049 PCT,2847,NARCBBX,DT3,SGT,Sergeant,Detective,Hispanic,M,4,34
+7,6018,Thomas,Woods,050 DET,7089,NARCBBX,DT3,DT3,Detective,Detective,White,M,8,42
+15,12547,Anthony,Wright,104 PCT,4255,104 PCT,DTS,DTS,Detective,Detective,Black,M,4,45
+19,17711,Willie,Artiles,CRM CTL,1279,NARCBMN,DT3,SGT,Sergeant,Detective,Hispanic,M,3,33
+22,18669,Eugene,Jonny,DB CEIS,2802,NARCBBS,DT3,DT3,Detective,Detective,White,M,7,42
+29,20803,Rashan,Lacoste,GANG BN,2285,GANG BN,DT3,DT3,Detective,Detective,Black,M,6,33
+35,20864,Carlos,Lozada,GANG BX,1174,NARCBBX,DT3,DT3,Detective,Detective,Hispanic,M,5,40
+40,22600,Matthew,Wright,I.A.B.,2832,WARRSEC,DT3,SGT,Sergeant,Detective,White,M,4,30
+44,24635,Darrel,Oneill,MP SQD,2206,NARCBMN,DT3,DT3,Detective,Detective,White,M,5,39
+49,25226,Joseph,Fernandez,NARCBBN,1815,NARCBBN,DT3,DT3,Detective,Detective,Hispanic,M,6,30
+55,25288,John,Slavinsky,NARCBBN,2046,NARCBBN,DT3,DT3,Detective,Detective,White,M,4,31
+59,25331,Christophe,Greiner,NARCBBS,1425,NARCBBS,DT3,DT3,Detective,Detective,White,M,5,34
+64,25719,Ronald,Luparello,NARCBQN,6400,NARCBQN,DT3,DT3,Detective,Detective,White,M,5,43
+69,25728,Thomas,Ramirez,NARCBQN,6443,NARCBQN,DT3,DT3,Detective,Detective,Hispanic,M,7,43
+76,25758,Sekou,Bourne,NARCBQS,5941,NARCBBN,DT3,DT3,Detective,Detective,Black,M,4,36
+80,32651,Victor,Robalino,SS DIV,3105,NARCBBS,DT3,DTS,Detective,Detective,Hispanic,M,4,37
+84,35937,Robert,Graves,WARRSEC,4588,WARRSEC,DT2,DT2,Detective,Detective,White,M,6,49
+90,8401,Daniel,Guida,071 PCT,0,NARCBBS,DT3,LT,Lieutenant,Detective,White,M,6,29
+96,9377,Mark,Scarlatelli,075 PCT,6287,NARCBSI,DT3,DTS,Detective,Detective,White,M,3,37
+99,15991,Emrah,Ates,AUTO CR,257,NARCBBN,DT3,DT3,Detective,Detective,White,M,3,31
+102,16169,Michael,Friedman,BK SVS,6423,NARCBSI,DT3,DT3,Detective,Detective,White,M,3,47
+105,18593,Cornelius,Oshea,DB CED,741,WARRSEC,DT3,DT3,Detective,Detective,White,M,3,34
+108,18826,John,Zamot,DB CID,7155,WARRSEC,DT3,DT3,Detective,Detective,Hispanic,M,3,36
+111,19105,Robert,Ciolino,DB GVSD,5235,WARRSEC,DT3,DT2,Detective,Detective,White,M,3,47
+114,19273,Andrew,Duguid,DB SVD,568,NARCBBN,DT3,DT3,Detective,Detective,White,M,3,40
+117,20982,Mike,Civil,GVSD Z1,2114,NARCBBS,DT3,DT3,Detective,Detective,Black,M,10,31
+127,21015,James,Miles,GVSD Z1,1016,GANG BN,DT3,DT3,Detective,Detective,Black,M,8,33
+129,21015,James,Miles,GVSD Z1,1016,GANG BN,POM,DT3,Detective,Police Officer,Black,M,8,33
+135,23002,Nicholas,Neve,INT CIS,21544,GANG Q,DT3,POM,Police Officer,Detective,White,M,7,32
+142,25274,Waliur,Rahman,NARCBBN,6428,NARCBBN,DT2,DT1,Detective,Detective,Asian,M,3,48
+145,25768,Edwin,Estrada,NARCBQS,2015,NARCBQN,DT3,DT3,Detective,Detective,Hispanic,M,3,39
+148,25837,Andrew,Fago,NARCBSI,2171,NARCBSI,DT3,DT3,Detective,Detective,White,M,4,40
+152,26260,Yuseff,Hamm,PB CAD,5967,106 PCT,DTS,DT2,Detective,Detective,Black,M,4,47
+156,31771,Gerard,Delprete,RTCC,1973,NARCBSI,DT3,DT3,Detective,Detective,White,M,6,37
+162,35899,Christophe,Dukes,WARRSEC,2278,WARRSEC,DT2,DT1,Detective,Detective,White,M,4,45
+166,35939,Corey,Gresko,WARRSEC,1660,WARRSEC,DT3,DT3,Detective,Detective,White,M,5,33
+171,16534,Christophe,Devaney,BXROBSQ,0,PBQN SU,LT,LCD,Lieutenant,Lieutenant,White,M,5,51
+176,20384,Ronald,Bolte,F S S,0,NARCBBX,LT,LT,Lieutenant,Lieutenant,White,M,4,40
+180,22210,Arsenio,Camilo,I.A.B.,0,101 PCT,LT,CPT,Captain,Lieutenant,Hispanic,M,6,34
+186,23514,Kevin,Breen,JT T/F,0,WARRSEC,LT,LCD,Lieutenant,Lieutenant,White,M,5,43
+191,29637,Michael,Brown,PSA 8,0,PSA 8,LT,LT,Lieutenant,Lieutenant,White,M,3,45
+194,32054,Michael,Raso,SRG,0,047 PCT,LT,LSA,Lieutenant,Lieutenant,White,M,5,34
+199,32066,Jorge,Tavarez,SRG,0,006 PCT,LT,LT,Lieutenant,Lieutenant,Hispanic,M,7,34
+206,35493,Dino,Tamayo,TB SOD,0,TB SOD,LT,LSA,Lieutenant,Lieutenant,Hispanic,M,5,43
+211,24873,Thomas,Smith,MTN PCT,0,121 PCT,LT,CPT,Captain,Lieutenant,White,M,5,41
+216,25692,Washington,Zurita,NARCBMS,0,023 PCT,LT,LT,Lieutenant,Lieutenant,Hispanic,M,4,45
+219,25692,Washington,Zurita,NARCBMS,0,025 PCT,SGT,LT,Lieutenant,Sergeant,Hispanic,M,4,45
+220,28,Jason,Bianchini,001 PCT,4743,104 PCT,POM,SGT,Sergeant,Police Officer,Hispanic,M,4,30
+224,483,Jonathan,Re,006 PCT,10902,006 PCT,POM,POM,Police Officer,Police Officer,White,M,4,44
+228,576,Juan,Hernandez,007 PCT,3610,023 PCT,POM,SGT,Sergeant,Police Officer,Hispanic,M,3,25
+231,669,William,Morris,009 DET,66,006 PCT,POM,SGT,Sergeant,Police Officer,White,M,3,23
+234,705,Carlos,Delgado,009 PCT,1358,007 PCT,POM,SGT,Sergeant,Police Officer,Hispanic,M,3,31
+237,1618,Sergio,Merino,020 DET,7452,032 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,4,36
+241,2114,Edward,Stackpole,025 DET,6768,061 PCT,POM,DT3,Detective,Police Officer,White,M,3,31
+244,2277,Jhonnier,Salazar,025 PCT,12746,025 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,33
+248,2335,William,Butler,026 PCT,3407,032 PCT,POM,SGT,Sergeant,Police Officer,White,M,3,35
+251,2568,Eduardo,Perezromero,028 PCT,22325,042 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,7,32
+258,2906,Milton,Sanchez,032 PCT,25931,032 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,5,45
+263,2952,Alejandro,Rivas,033 DET,2973,033 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,7,42
+270,3083,Dwight,Powell,033 PCT,9038,033 PCT,POM,POM,Police Officer,Police Officer,Black,M,3,27
+273,3142,Doreyda,Munoz,034 DET,2265,040 PCT,POF,DT3,Detective,Police Officer,Hispanic,F,4,27
+277,3403,Genti,Bektashaj,040 PCT,4850,034 PCT,POM,SGT,Sergeant,Police Officer,White,M,4,42
+279,3403,Genti,Bektashaj,040 PCT,4850,034 PCT,SGT,SGT,Sergeant,Sergeant,White,M,4,42
+281,3548,Malik,Mccloud,040 PCT,30082,PBBX,POM,POM,Police Officer,Police Officer,Black,M,3,28
+284,3552,Malachi,Mckenith,040 PCT,2680,040 PCT,POM,POM,Police Officer,Police Officer,Black,M,6,36
+290,3771,Gregory,Kennedy,041 PCT,3102,043 PCT,POM,SGT,Sergeant,Police Officer,Black,M,5,34
+295,3786,Tyler,Marshall,041 PCT,2855,PBBN,POM,SGT,Sergeant,Police Officer,White,M,3,25
+298,3962,Brian,Fragliossi,042 PCT,4161,049 PCT,POM,SGT,Sergeant,Police Officer,White,M,3,37
+301,4068,Jorge,Sanabria,042 PCT,3950,PBBN,POM,SGT,Sergeant,Police Officer,Hispanic,M,3,25
+302,4068,Jorge,Sanabria,042 PCT,3950,073 PCT,POM,SGT,Sergeant,Police Officer,Hispanic,M,3,25
+304,4434,Daniel,Nunez,044 DET,18750,047 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,5,35
+309,4439,Shamika,Thomas,044 DET,11330,PBBX,POF,POF,Police Officer,Police Officer,Black,F,3,28
+312,4570,Eumir,Ferrer,044 PCT,2512,PSA 1,POM,SGT,Sergeant,Police Officer,Asian,M,4,32
+316,4630,Enver,Lopez,044 PCT,4474,PBBX,POM,POM,Police Officer,Police Officer,Hispanic,M,3,36
+319,4668,Rafael,Morales,044 PCT,14062,044 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,5,28
+324,4777,Jovanna,Woloski,044 PCT,24350,PBBX,POF,POF,Police Officer,Police Officer,Hispanic,F,3,24
+327,319,Calvin,Searcy,005 PCT,4349,005 PCT,POM,POM,Police Officer,Police Officer,Black,M,3,35
+330,5044,Kevin,Cox,046 PCT,7108,046 PCT,POM,POM,Police Officer,Police Officer,Black,M,3,40
+333,5143,Diego,Marin,046 PCT,3763,PBBX,POM,POM,Police Officer,Police Officer,Hispanic,M,3,31
+336,5254,Felix,Torres,046 PCT,4158,046 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,6,27
+342,5263,Susana,Ventura,046 PCT,543,PBBX,POF,POF,Police Officer,Police Officer,Hispanic,F,3,27
+345,5299,David,Sammarco,047 DET,971,047 PCT,POM,DT3,Detective,Police Officer,White,M,4,44
+349,6017,Christophe,White,050 DET,1555,007 PCT,POM,DT3,Detective,Police Officer,White,M,4,35
+353,3070,Neil,Odonnell,033 PCT,8020,PBMN,POM,POM,Police Officer,Police Officer,White,M,3,25
+356,6901,Francesco,Cusimano,062 PCT,12139,062 PCT,POM,POM,Police Officer,Police Officer,White,M,3,32
+359,7106,Gary,Leite,063 PCT,5022,121 PCT,POM,SGT,Sergeant,Police Officer,White,M,5,28
+364,7359,James,Giamboi,067 DET,2772,067 PCT,POM,DT3,Detective,Police Officer,White,M,3,31
+367,7547,Christophe,Mcdonald,067 PCT,23355,067 PCT,POM,POM,Police Officer,Police Officer,Black,M,3,28
+370,7626,Brian,Schulman,067 PCT,2429,120 PCT,POM,SGT,Sergeant,Police Officer,White,M,7,29
+377,7856,Matthew,Mauro,069 DET,13615,069 PCT,POM,POM,Police Officer,Police Officer,White,M,3,26
+380,7909,Marcel,Francis,069 PCT,5943,083 PCT,POM,DTS,Detective,Police Officer,Black,M,3,31
+383,7927,Terrence,Howard,069 PCT,3375,079 PCT,POM,SGT,Sergeant,Police Officer,Black,M,3,25
+386,7968,Kelvin,Peralta,069 PCT,1514,075 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,7,31
+393,8029,Max,Rolffot,070 DET,3178,070 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,3,32
+396,8197,Brian,Mccarthy,070 PCT,17548,070 PCT,POM,POM,Police Officer,Police Officer,White,M,4,26
+400,8576,Tonica,Corlette,072 PCT,5056,PSA 1,POF,SGT,Sergeant,Police Officer,Black,F,4,33
+404,8630,Salvatore,Lopiccolo,072 PCT,15555,072 PCT,POM,POM,Police Officer,Police Officer,White,M,5,41
+409,8747,Jay,Rivera,073 DET,3882,075 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,34
+413,8922,Risel,Martinez,073 PCT,22049,032 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,24
+417,9052,Todd,Hansen,075 DET,16143,075 PCT,POM,POM,Police Officer,Police Officer,White,M,7,34
+424,9080,Radoslaw,Terepka,075 DET,5393,075 PCT,POM,DT3,Detective,Police Officer,White,M,4,37
+428,5873,Ray,Dutton,049 PCT,29141,049 PCT,POM,POM,Police Officer,Police Officer,White,M,3,38
+431,9379,William,Schumacher,075 PCT,4618,075 PCT,POM,POM,Police Officer,Police Officer,White,M,3,26
+434,9396,Daniel,Sitruk,075 PCT,21263,075 PCT,POM,POM,Police Officer,Police Officer,White,M,6,32
+440,9402,Kyle,Stanley,075 PCT,3809,075 PCT,POM,POM,Police Officer,Police Officer,White,M,9,37
+449,6429,Michael,Whooley,052 PCT,2673,105 PCT,POM,SGT,Sergeant,Police Officer,White,M,5,33
+454,9671,Patrick,Craig,077 PCT,26996,077 PCT,POM,POM,Police Officer,Police Officer,White,M,3,29
+457,10206,Emilio,Ortega,079 PCT,6216,079 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,5,49
+462,10265,Kieran,Tracy,079 PCT,1034,112 PCT,POM,SGT,Sergeant,Police Officer,White,M,5,39
+467,10303,Daniel,Roman,081 DET,1267,088 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,3,27
+470,10591,Adam,Dumelle,083 PCT,271,079 PCT,POM,SGT,Sergeant,Police Officer,White,M,9,29
+479,11193,Rudy,Dominguez,090 PCT,8683,090 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,3,34
+482,11304,Stephen,Sheppard,090 PCT,13816,090 PCT,POM,POM,Police Officer,Police Officer,White,M,5,27
+487,11379,Anatoli,Eltsov,094 PCT,20935,077 PCT,POM,POM,Police Officer,Police Officer,White,M,3,40
+490,11529,Shaun,Grossweiler,100 PCT,4879,100 PCT,POM,POM,Police Officer,Police Officer,White,M,3,32
+493,11654,Lisa,Bonsignore,101 PCT,11534,101 PCT,POF,POF,Police Officer,Police Officer,White,F,5,29
+498,9344,Lawrence,Perrotta,075 PCT,14195,075 PCT,POM,POM,Police Officer,Police Officer,White,M,4,36
+502,12076,Patrick,Norcott,103 DET,785,101 PCT,POM,DT3,Detective,Police Officer,White,M,3,40
+505,12080,Derek,Webber,103 DET,3881,113 PCT,POM,DT3,Detective,Police Officer,White,M,7,27
+512,12239,Stephen,Loschiavo,103 PCT,6880,103 PCT,POM,POM,Police Officer,Police Officer,White,M,7,28
+519,12354,Paul,Palminteri,104 DET,2290,083 PCT,POM,DT3,Detective,Police Officer,White,M,7,26
+526,12481,Louis,Marinacci,104 PCT,22579,104 PCT,POM,POM,Police Officer,Police Officer,White,M,7,31
+533,12551,Anton,Bartoldus,105 DET,7062,105 PCT,POM,DT3,Detective,Police Officer,White,M,8,44
+541,12573,Jose,Vasquezmiranda,105 DET,3051,113 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,5,30
+546,12913,Brian,Coffey,106 PCT,24049,PBQS SU,POM,POM,Police Officer,Police Officer,White,M,5,37
+551,13415,Hassan,Raza,108 PCT,9198,108 PCT,POM,POM,Police Officer,Police Officer,Asian,M,5,25
+556,14265,Francisco,Adames,113 DET,1542,032 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,4,32
+560,14266,Paul,Chierico,113 DET,30661,105 PCT,POM,POM,Police Officer,Police Officer,White,M,7,30
+567,14270,Christophe,Cruzado,113 DET,4329,GANG Q,POM,DT3,Detective,Police Officer,Hispanic,M,4,31
+571,14283,Timothy,Rizzo,113 DET,3691,113 PCT,POM,DT3,Detective,Police Officer,White,M,3,30
+574,14306,Michael,Cappellano,113 PCT,3908,104 PCT,POM,SGT,Sergeant,Police Officer,White,M,4,24
+578,14524,Yevgeniy,Zaytsev,113 PCT,12848,113 PCT,POM,POM,Police Officer,Police Officer,White,M,4,28
+582,14557,Pedro,Almanzar,114 PCT,20768,070 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,3,29
+585,14610,Vincent,Dima,114 PCT,263,034 PCT,POM,SGT,Sergeant,Police Officer,White,M,5,24
+590,14731,Jose,Rendon,114 PCT,2545,114 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,5,29
+595,15044,Daniel,Castillo,120 DET,212,WARRSEC,POM,DT3,Detective,Police Officer,Hispanic,M,3,32
+598,15046,Joseph,Dalbero,120 DET,983,120 PCT,POM,SGT,Sergeant,Police Officer,White,M,9,28
+607,15109,Vincent,Ciardiello,120 PCT,2278,072 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,5,26
+612,15559,Vincenzo,Trabolse,121 PCT,7477,121 PCT,POM,POM,Police Officer,Police Officer,White,M,4,33
+616,16000,Michael,Carleo,AUTO CR,5738,113 PCT,POM,DT3,Detective,Police Officer,White,M,5,37
+621,16298,Kamil,Pac,BKROBSQ,5151,075 PCT,POM,DT3,Detective,Police Officer,White,M,3,27
+624,15430,Anthony,Cimmino,121 PCT,11712,121 PCT,POM,POM,Police Officer,Police Officer,White,M,4,32
+628,17162,Jaysen,Basnight,C/SCENE,29694,032 PCT,POM,POM,Police Officer,Police Officer,Black,M,4,34
+632,17313,Michael,Butler,CD OFF,0,103 PCT,POM,LT,Lieutenant,Police Officer,White,M,9,27
+641,16098,Dustin,Dimpflmaier,AV.UNIT,13054,PBMN,POM,POM,Police Officer,Police Officer,White,M,3,26
+644,16144,Brian,Worthington,AV.UNIT,20109,105 PCT,POM,POM,Police Officer,Police Officer,Black,M,4,35
+648,16753,Thomas,Fitzgerald,C R C,15621,105 PCT,POM,POM,Police Officer,Police Officer,White,M,3,31
+651,18673,Stephen,Lalchan,DB CEIS,6416,GANG Q,POM,DT3,Detective,Police Officer,Asian,M,4,28
+655,18890,Michael,Mccaffrey,DB FCTF,2270,PBQ/S,POM,DT3,Detective,Police Officer,White,M,6,28
+661,18974,Robert,Deferrari,DB GLD,1012,113 PCT,POM,SGT,Sergeant,Police Officer,White,M,3,30
+664,19364,Edgar,Gonzalez,DBBN OP,806,GANG BN,POM,DT3,Detective,Police Officer,Hispanic,M,5,32
+669,19516,Michael,Tarulli,DBMS,27694,120 PCT,POM,POM,Police Officer,Police Officer,White,M,4,36
+673,19716,Emmanuel,Kwo,DCER,0,121 PCT,POM,LT,Lieutenant,Police Officer,Black,M,7,27
+680,19561,Michael,Greaney,DBQS,7490,WARRSEC,POM,DT3,Detective,Police Officer,White,M,3,29
+683,20045,David,Castro,EQP SEC,24473,112 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,5,32
+688,20157,Francisco,Allende,ESS 05,3957,122 PCT,POM,DTS,Detective,Police Officer,Hispanic,M,5,27
+693,20251,Ryan,Galvin,ESS 08,2972,081 PCT,POM,DTS,Detective,Police Officer,White,M,3,27
+696,20438,William,Reddin,F S S,7345,081 PCT,POM,DT3,Detective,Police Officer,White,M,3,31
+699,19976,Brian,Kovarik,E S U,21898,PBBX,POM,POM,Police Officer,Police Officer,White,M,8,25
+707,20688,Saverio,Zanchelli,FLT SVC,28467,049 PCT,POM,POM,Police Officer,Police Officer,White,M,5,45
+712,20922,Jared,Rothschild,GANG QN,4298,GANG Q,POM,DT3,Detective,Police Officer,White,M,3,34
+715,20256,Matthew,Manchester,ESS 08,8850,044 PCT,POM,POM,Police Officer,Police Officer,White,M,3,28
+718,21199,Pedro,Vallecillo,H MAN,30714,072 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,3,38
+721,21319,Michael,Kaczor,HARBOR,11985,HWY 05,POM,POM,Police Officer,Police Officer,White,M,5,32
+726,20520,John,Kaiser,F.T.S.,10466,PBBX,POM,POM,Police Officer,Police Officer,White,M,3,41
+729,21773,Justin,Allen,HWY 01,6922,044 PCT,POM,POM,Police Officer,Police Officer,Black,M,5,29
+734,22064,Gregory,Gianacopulos,HWY DST,711,MTN PCT,POM,POM,Police Officer,Police Officer,White,M,4,26
+738,20927,Alejandro,Valderrama,GANG QN,2519,PBBN,POM,DT3,Detective,Police Officer,Hispanic,M,7,26
+742,20927,Alejandro,Valderrama,GANG QN,2519,077 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,7,26
+745,22361,Santiago,Inoa,I.A.B.,4550,049 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,3,37
+748,22425,Evans,Mazile,I.A.B.,3554,TB DT33,POM,SGT,Sergeant,Police Officer,Black,M,5,28
+753,22463,Robert,Orlando,I.A.B.,1408,069 PCT,POM,SGT,Sergeant,Police Officer,White,M,6,30
+759,22788,Felix,Cortez,INT CIS,25451,108 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,3,24
+762,22929,Anthony,Lafemina,INT CIS,6661,075 PCT,POM,DTS,Detective,Police Officer,White,M,4,25
+766,22959,Jonathan,Martinez,INT CIS,10299,PBBN,POM,POM,Police Officer,Police Officer,Hispanic,M,6,24
+771,22959,Jonathan,Martinez,INT CIS,10299,088 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,6,24
+772,21875,Jordan,Lomba,HWY 02,9300,063 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,3,25
+775,23157,Ahsan,Zafar,INT CIS,3773,041 PCT,POM,POM,Police Officer,Police Officer,Asian,M,5,25
+780,22603,Mobeen,Yasin,I.A.B.,0,060 PCT,POM,LT,Lieutenant,Police Officer,Asian,M,5,27
+785,22681,James,Titus,INT BUR,3128,075 PCT,POM,POM,Police Officer,Police Officer,White,M,3,27
+788,22712,Michael,Ardolino,INT CIS,3101,075 PCT,POM,POM,Police Officer,Police Officer,White,M,3,23
+791,22837,Matthew,Escudero,INT CIS,26192,047 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,27
+795,22893,Michael,Heinz,INT CIS,9897,PSA 8,POM,POM,Police Officer,Police Officer,White,M,4,23
+799,22953,Kendrick,Maldonado,INT CIS,6687,041 PCT,POM,DTS,Detective,Police Officer,Hispanic,M,5,38
+804,23045,Dominick,Raso,INT CIS,984,120 PCT,POM,SGT,Sergeant,Police Officer,White,M,3,28
+807,25521,Edward,Salthouse,NARCBBX,1502,025 PCT,POM,DT3,Detective,Police Officer,White,M,3,27
+810,25524,Donald,Sehl,NARCBBX,1527,040 PCT,POM,DT3,Detective,Police Officer,White,M,4,32
+814,25571,Francisco,Guzman,NARCBMN,4091,034 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,4,45
+818,23106,Jonathan,Taveras,INT CIS,30195,PBBN,POM,POM,Police Officer,Police Officer,Hispanic,M,4,23
+820,23106,Jonathan,Taveras,INT CIS,30195,073 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,23
+822,25638,Sean,Brown,NARCBMS,41,044 PCT,POM,DT3,Detective,Police Officer,Black,M,3,27
+825,25749,Edwin,Villanueva,NARCBQN,5905,025 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,3,28
+828,25840,Michael,Gagliardi,NARCBSI,1261,121 PCT,POM,DT3,Detective,Police Officer,White,M,3,26
+831,25844,Jason,Greenberg,NARCBSI,3500,120 PCT,POM,DT3,Detective,Police Officer,White,M,3,36
+834,26180,Michael,Whelan,PA UPTU,0,047 PCT,POM,LT,Lieutenant,Police Officer,White,M,5,32
+839,26821,Richard,Oneill,PBBX,10332,050 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,3,41
+842,24253,Julio,Ramos,MAN CT,5241,079 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,28
+846,27128,Tristian,Latimore,PBMS,10021,PBMN,POM,POM,Police Officer,Police Officer,Black,M,4,23
+850,27797,Derek,Almeida,POL LAB,2023,083 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,3,27
+853,27857,Stephen,Loffredo,POL LAB,2143,090 PCT,POM,DT3,Detective,Police Officer,White,M,3,26
+856,27953,Justin,Ellis,PROPCLK,2784,101 PCT,POM,SGT,Sergeant,Police Officer,White,M,6,28
+862,25049,Andrew,Ho,MTS PCT,5155,079 PCT,POM,SGT,Sergeant,Police Officer,Asian,M,5,31
+867,28390,Tyrane,Isaac,PSA 2,17818,077 PCT,POM,POM,Police Officer,Police Officer,Black,M,4,36
+871,28497,Jose,Reyes,PSA 2,23643,041 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,29
+875,25227,Dmaine,Freeland,NARCBBN,4615,NARCBBN,POM,DT3,Detective,Police Officer,Black,M,3,38
+878,28651,Delinda,Giraldo,PSA 3,21529,PBMN,POF,POF,Police Officer,Police Officer,Hispanic,F,3,26
+881,25325,Erick,Flores,NARCBBS,1926,072 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,4,33
+885,25359,Jamaal,Miller,NARCBBS,1363,079 PCT,POM,DT3,Detective,Police Officer,Black,M,6,30
+891,29588,Daniel,Staple,PSA 7,14749,PSA 7,POM,POM,Police Officer,Police Officer,White,M,3,28
+894,29651,Ryan,Conroy,PSA 8,4764,049 PCT,POM,SGT,Sergeant,Police Officer,White,M,6,35
+900,25419,Elvis,Cole,NARCBBX,4130,047 PCT,POM,DT3,Detective,Police Officer,White,M,3,28
+903,29803,Danny,Williams,PSA 8,6515,PSA 8,POM,POM,Police Officer,Police Officer,Black,M,3,32
+906,30100,Pamela,Benites,Q SVS,556,079 PCT,POF,DT3,Detective,Police Officer,Hispanic,F,3,31
+909,30289,Edwin,Peguero,QNS CT,24835,PBBX,POM,POM,Police Officer,Police Officer,Hispanic,M,4,34
+913,31847,Johnpaul,Vinculado,RTCC,936,024 PCT,POM,DT3,Detective,Police Officer,Asian,M,3,29
+916,32051,Aman,Rana,SRG,14952,PSA 5,POM,POM,Police Officer,Police Officer,Asian,M,6,24
+922,32058,Nelson,Reyes,SRG,27566,073 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,3,30
+923,32058,Nelson,Reyes,SRG,27566,PBBN,POM,POM,Police Officer,Police Officer,Hispanic,M,3,30
+925,32059,Juan,Rodriguez,SRG,6709,047 PCT,POM,DTS,Detective,Police Officer,Hispanic,M,7,33
+932,25614,Fernando,Rodriguez,NARCBMN,27943,PBBX,POM,POM,Police Officer,Police Officer,Hispanic,M,3,25
+935,32443,Wilson,Alba,4,4724,PSA 2,POM,SGT,Sergeant,Police Officer,Hispanic,M,4,31
+939,25700,Richard,Charles,NARCBQN,3186,075 PCT,POM,DT3,Detective,Police Officer,Black,M,4,29
+943,32534,Eric,Rodriguez,4,6358,104 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,6,30
+949,25743,Patrick,Sullivan,NARCBQN,5784,104 PCT,POM,DT3,Detective,Police Officer,White,M,3,34
+952,32931,Ralph,Ramos,TAXI UT,3260,PBBS TF,POM,POM,Police Officer,Police Officer,Hispanic,M,4,49
+956,25807,Derek,Sambolin,NARCBQS,6902,073 PCT,POM,DT3,Detective,Police Officer,Hispanic,M,9,30
+965,25819,Brian,Volpi,NARCBQS,4209,113 PCT,POM,DT3,Detective,Police Officer,White,M,5,32
+970,25824,Vincent,Agostino,NARCBSI,3764,121 PCT,POM,DT3,Detective,Police Officer,White,M,3,28
+973,33812,Ramon,Maldonado,TB DT03,10534,TB DT03,POM,POM,Police Officer,Police Officer,Hispanic,M,3,40
+976,26163,Michael,Scally,PA UPTU,0,PSA 9,POM,LT,Lieutenant,Police Officer,White,M,4,28
+980,34977,Efrain,Rojas,TB DT32,19553,TB DT32,POM,POM,Police Officer,Police Officer,Hispanic,M,5,31
+985,35720,Michele,Butera,VED ZN1,5397,044 PCT,POM,DT3,Detective,Police Officer,White,M,3,27
+988,26700,Michael,Mitchell,PBBS SU,12463,063 PCT,POM,POM,Police Officer,Police Officer,Black,M,6,38
+994,26750,Steven,Dejesussmith,PBBX,12283,042 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,27
+998,35956,Eric,Healy,WARRSEC,6774,043 PCT,POM,DT3,Detective,Police Officer,Black,M,3,29
+1001,36058,Carl,Pattelli,WARRSEC,512,070 PCT,POM,DT3,Detective,Police Officer,White,M,4,31
+1005,36158,Matthew,Vorraro,WARRSEC,771,WARRSEC,POM,DT3,Detective,Police Officer,White,M,4,33
+1009,36233,Joseph,Gartner,WTC CMD,17968,049 PCT,POM,POM,Police Officer,Police Officer,White,M,3,33
+1012,36248,Steve,Higgins,WTC CMD,7734,PSA 8,POM,POM,Police Officer,Police Officer,Black,M,4,39
+1016,36339,Jonathan,Trossi,WTC CMD,7606,PSA 3,POM,POM,Police Officer,Police Officer,Asian,M,3,26
+1019,28151,Herman,Lai,PSA 1,581,HBK IRT,POM,SGT,Sergeant,Police Officer,Asian,M,3,32
+1022,28154,Johnny,Lawrence,PSA 1,17766,PSA 1,POM,POM,Police Officer,Police Officer,Black,M,5,37
+1027,28274,Francesco,Allevato,PSA 2,7161,075 PCT,POM,DT3,Detective,Police Officer,White,M,4,25
+1031,28413,Ryan,Larson,PSA 2,19051,PSA 2,POM,POM,Police Officer,Police Officer,White,M,5,28
+1036,28957,Alexis,Ponce,PSA 4,7910,PSA 4,POM,POM,Police Officer,Police Officer,Hispanic,M,6,41
+1042,29330,Carlos,Pimentel,PSA 6,7608,HBM IRT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,27
+1046,29534,Shawn,Moynihan,PSA 7,3202,PSA 7,POM,POM,Police Officer,Police Officer,White,M,3,27
+1049,29674,Deshawn,Edmonds,PSA 8,29310,PSA 8,POM,POM,Police Officer,Police Officer,Black,M,7,27
+1056,30046,Juan,Torres,PSA 9,13539,PSA 9,POM,POM,Police Officer,Police Officer,Hispanic,M,5,27
+1061,30272,Diery,Louis,QNS CT,29819,081 PCT,POM,POM,Police Officer,Police Officer,Black,M,4,36
+1065,32585,Richard,Guerrieri,5,1567,120 PCT,POM,SGT,Sergeant,Police Officer,White,M,3,28
+1068,33829,Jeffrey,Mota,TB DT03,29380,024 PCT,POM,POM,Police Officer,Police Officer,Hispanic,M,4,29
+1072,34069,John,Zorrilla,TB DT04,3069,PSA 7,POM,SGT,Sergeant,Police Officer,Hispanic,M,6,33
+1078,34564,Carlos,Silva,TB DT20,24925,TB DT20,POM,POM,Police Officer,Police Officer,Hispanic,M,3,49
+1081,34975,Christian,Rojas,TB DT32,335,062 PCT,POM,SGT,Sergeant,Police Officer,Hispanic,M,3,26
+1084,35892,Brian,Dobbins,WARRSEC,1847,020 PCT,POM,DT3,Detective,Police Officer,White,M,3,24
+1087,35930,Daniel,Golat,WARRSEC,482,121 PCT,POM,DT3,Detective,Police Officer,White,M,5,25
+1092,35945,Thomas,Guy,WARRSEC,1811,067 PCT,POM,DT3,Detective,Police Officer,Black,M,4,32
+1096,35959,Ronald,Hobson,WARRSEC,17689,046 PCT,POM,POM,Police Officer,Police Officer,Black,M,7,33
+1103,1348,James,Slavin,017 PCT,2133,017 PCT,SGT,SGT,Sergeant,Sergeant,White,M,4,44
+1107,2203,Robert,King,025 PCT,0,052 PCT,SGT,LT,Lieutenant,Sergeant,White,M,3,39
+1110,3510,Darrien,King,040 PCT,0,NARCBMN,SGT,LT,Lieutenant,Sergeant,Black,M,3,31
+1113,4776,Dervent,Williams,044 PCT,1719,041 PCT,SGT,SGT,Sergeant,Sergeant,Black,M,6,32
+1119,5037,Edwin,Ching,046 PCT,1578,046 PCT,SGT,SGT,Sergeant,Sergeant,Asian,M,6,41
+1125,5078,John,Ferrara,046 PCT,1746,PBBX,SGT,SGT,Sergeant,Sergeant,White,M,3,39
+1128,7392,Brian,Bartley,067 PCT,2053,067 PCT,SGT,SGT,Sergeant,Sergeant,White,M,3,38
+1131,7991,Justin,Simms,069 PCT,0,075 PCT,SGT,LT,Lieutenant,Sergeant,White,M,3,32
+1134,9619,Clifford,Louis,077 DET,2793,071 PCT,SGT,SGT,Sergeant,Sergeant,Black,M,3,38
+1137,9666,Sean,Claxton,077 PCT,0,067 PCT,SGT,LT,Lieutenant,Sergeant,Black,M,8,30
+1145,10436,Michael,Miller,081 PCT,2951,081 PCT,SSA,SSA,Sergeant,Sergeant,White,M,8,41
+1153,10951,Angel,Vasquez,084 PCT,0,PBBN,SGT,LT,Lieutenant,Sergeant,Hispanic,M,4,33
+1157,11185,Henry,Daverin,090 PCT,0,PBBN,SGT,LT,Lieutenant,Sergeant,White,M,4,30
+1161,11676,Steve,Crozier,101 PCT,2379,101 PCT,SGT,SGT,Sergeant,Sergeant,White,M,10,34
+1171,12557,Thomas,Gagliardi,105 DET,996,NARCBQN,SGT,SGT,Sergeant,Sergeant,White,M,9,36
+1180,14681,Pete,Massa,114 PCT,2193,NARCBBX,SGT,SGT,Sergeant,Sergeant,White,M,9,46
+1189,15120,Martin,Costello,120 PCT,0,063 PCT,SGT,LT,Lieutenant,Sergeant,White,M,3,28
+1192,16397,Mohamadyah,Patwekar,BUS UT,0,PBBX,SGT,LT,Lieutenant,Sergeant,Asian,M,3,32
+1195,16529,Keith,Beddows,BXROBSQ,1147,041 PCT,SGT,SGT,Sergeant,Sergeant,White,M,4,41
+1199,16949,Orlando,Phillip,C R C,1899,PBBS,SGT,SGT,Sergeant,Sergeant,Black,M,7,38
+1206,17022,Harjit,Singh,C R C,1588,104 PCT,SGT,SGT,Sergeant,Sergeant,Asian,M,8,35
+1214,17755,William,Ditomaso,CRM CTL,3680,PBQ/S,SGT,SGT,Sergeant,Sergeant,Hispanic,M,5,35
+1215,17755,William,Ditomaso,CRM CTL,3680,103 PCT,SGT,SGT,Sergeant,Sergeant,Hispanic,M,5,35
+1219,18968,Fredy,Cruz,DB GLD,887,033 PCT,SGT,SGT,Sergeant,Sergeant,Hispanic,M,6,45
+1225,19106,Joseph,Cruzado,DB GVSD,4330,GANG BN,SGT,SDS,Sergeant,Sergeant,White,M,5,32
+1230,19140,Charles,Senat,DB HATE,520,090 PCT,SGT,SGT,Sergeant,Sergeant,Black,M,3,36
+1233,21450,Jose,Caban,HBM RT,1324,PSA 7,SGT,SGT,Sergeant,Sergeant,Hispanic,M,3,41
+1236,22524,John,Ryan,I.A.B.,0,NARCBSI,SGT,LT,Lieutenant,Sergeant,White,M,6,31
+1242,22779,Robert,Clark,INT CIS,253,INT CIS,SGT,SDS,Sergeant,Sergeant,White,M,6,46
+1248,23890,Jason,Deonarinesingh,M E L D,2037,120 PCT,SGT,SGT,Sergeant,Sergeant,Black,M,9,33
+1257,24558,Peter,Curran,MOUNTED,694,040 PCT,SGT,SGT,Sergeant,Sergeant,White,M,3,35
+1260,25398,Kreshnik,Bakraqi,NARCBBX,0,049 PCT,SGT,LT,Lieutenant,Sergeant,White,M,4,32
+1264,25583,Robert,Kelly,NARCBMN,3349,NARCBMN,SGT,SDS,Sergeant,Sergeant,White,M,4,41
+1268,25637,Matthew,Bourbeau,NARCBMS,1596,034 PCT,SGT,SGT,Sergeant,Sergeant,White,M,6,40
+1274,25979,Gelono,Joshua,P C C U,3365,PBBX,SGT,SGT,Sergeant,Sergeant,Black,M,6,38
+1280,25999,Kevin,Devine,P C O,509,069 PCT,SGT,SGT,Sergeant,Sergeant,White,M,3,36
+1283,26879,Davon,Alston,PBBX SU,136,PBBX,SGT,SGT,Sergeant,Sergeant,Black,M,3,30
+1286,27796,Gregory,Abrahams,POL LAB,4441,102 PCT,SGT,SGT,Sergeant,Sergeant,Black,M,3,42
+1289,31788,Joseph,Imperatrice,RTCC,3504,007 PCT,SGT,SGT,Sergeant,Sergeant,White,M,4,29
+1293,19922,Scott,Blennau,E S U,4746,101 PCT,SGT,SGT,Sergeant,Sergeant,White,M,3,27
+1296,32795,William,Tergesen,SVD Z3,0,113 PCT,SGT,LT,Lieutenant,Sergeant,White,M,7,27
+1303,32804,Michael,Alfieri,T.A.R.U,800,006 PCT,SGT,SGT,Sergeant,Sergeant,White,M,3,28
+1306,32896,Richard,Romance,T.A.R.U,3433,019 PCT,SGT,SGT,Sergeant,Sergeant,White,M,4,32
+1310,32981,Daniel,Watson,TB,0,062 PCT,SGT,LT,Lieutenant,Sergeant,White,M,3,29
+1313,34522,Juan,Moreno,TB DT20,0,077 PCT,SGT,LT,Lieutenant,Sergeant,Hispanic,M,3,32
+1316,35796,John,Albertelli,WARRSEC,3235,WARRSEC,SGT,SDS,Sergeant,Sergeant,White,M,5,43
+1321,36141,Brian,Tiernan,WARRSEC,5421,102 PCT,SGT,SGT,Sergeant,Sergeant,White,M,6,33
+1327,36143,Raymond,Tomins,WARRSEC,5336,WARRSEC,SGT,SDS,Sergeant,Sergeant,White,M,4,47
